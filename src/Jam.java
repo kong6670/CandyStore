@@ -11,7 +11,7 @@ public class Jam extends Cost {
 			return crepe.getDescription()+",JamFrui";
 		}
 		public double cost(){
-			return 15.00 + crepe.cost();
+			return 5.00 + crepe.cost();
 		}
 
 }

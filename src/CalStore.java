@@ -24,8 +24,7 @@ public class CalStore {
 	a4 = new Chocolate(a4);
 	a4 = new Banana(a4);
 	System.out.println(a4.getDescription()+" "+a4.cost()+" Baht");
-	
-	
+		
 	}
 
 }
